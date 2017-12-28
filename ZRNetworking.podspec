@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZRNetworking"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "A short description of ZRNetworking."
 
   # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/jzwsli/ZRNetworking.git", :tag => "#{1.0.0}" }
+  s.source       = { :git => "https://github.com/jzwsli/ZRNetworking.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
