@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "https://github.com/jzwsli/ZRNetworking"
+  s.homepage     = "https://github.com/jzwsli"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -64,7 +64,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  # s.platform     = :ios, "5.0"
+  # s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
