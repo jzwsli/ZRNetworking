@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name                = "ZRNetworking"
 s.version             = "1.0.0"
-s.summary             = "integrate APNs rapidly"
+s.summary             = "for me"
 s.homepage            = "https://github.com/jzwsli/ZRNetworking"
 s.license             = { :type => "MIT", :file => "LICENSE" }
 s.author             = { "lzr" => "532028798@qq.com.com" }
