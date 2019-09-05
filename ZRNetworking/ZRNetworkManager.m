@@ -20,7 +20,7 @@
 
 #import "ZRNetworkManager.h"
 #import "ZRCacheManager.h"
-#import <AFNetworkActivityIndicatorManager.h>
+#import "AFNetworkActivityIndicatorManager.h"
 
 @interface ZRNetworkManager()
 @property (nonatomic, strong) AFHTTPSessionManager *AFmanager;
